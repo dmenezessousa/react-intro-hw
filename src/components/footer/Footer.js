@@ -6,7 +6,7 @@ export class Footer extends Component {
     render() {
         return (
             <div  className="footer-div">
-                <h2 className="footer-title">@Copywrite Diego Sousa 2021</h2>
+                <h2 style={{color: "white"}}>@Copywrite Diego Sousa 2021</h2>
             </div>
         )
     }
