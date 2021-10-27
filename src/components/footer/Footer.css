@@ -1,0 +1,11 @@
+.footer-div{
+    background-color: #252525;
+    width: auto;
+    display: flex;
+    justify-content: center;
+};
+
+.footer-title{
+    color: #fff !important;
+    font-size: 2em;
+};

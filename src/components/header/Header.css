@@ -1,0 +1,11 @@
+.header-div{
+    background-color: #252525;
+    width: auto;
+    display: flex;
+    justify-content: center;
+};
+
+.header-title{
+    color: white, !important;
+    font-size: 5em;
+};
