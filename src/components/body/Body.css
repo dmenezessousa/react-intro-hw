@@ -1,0 +1,14 @@
+.body {
+    color: white;
+    background-color: #252525;
+    
+};
+
+.img-div{
+    margin: 0%;
+}
+.rickAndMorty {
+    height: 500px;
+    width: 300px;
+    margin-left: 40%;
+};
