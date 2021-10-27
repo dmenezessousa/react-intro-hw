@@ -6,7 +6,7 @@ export class Box extends Component {
     return (
         <div>
             <img src={this.props.rickAndMorty} alt={this.props.name} />
-            <span>{this.props.name}</span>
+            <span style={{display: "flex", justifyContent: "center"}}>{this.props.name}</span>
         </div>
         );
     }
